@@ -1,5 +1,8 @@
 # Enhancing international passengers’ selection for RT-PCR
-National Inter University Big Data And AI Challenge 2023
+[National Inter University Big Data And AI Challenge 2023](https://www.stemfellowship.org/case-study/national-inter-university-big-data-and-ai-challenge-2023/)
+
+[STEM Fellowship Journal: Leveraging open data analytics and machine learning to improve diagnosis of diseases, patients’ care, and support: Proceedings from the 2023 Inter-University Big Data and AI Challenge
+](https://journal.stemfellowship.org/doi/abs/10.17975/sfj-2023-007)
 
 ## Evaluating the Effectiveness of RT-PCR Reports for Identifying Travellers Requiring Retesting
 
@@ -45,4 +48,6 @@ This study has the potential to significantly enhance the effectiveness of trave
 
 
 ### Research Paper
-[Eliminating Randomness in selecting International Passengers for RT-PCR.pdf]([https://github.com/gelnomo/](https://github.com/gelnomo/ART.-National-Inter-University-Big-Data-And-AI-Challenge-2023/blob/main/README.md)https://github.com/gelnomo/ART.-National-Inter-University-Big-Data-And-AI-Challenge-2023/blob/main/Eliminating%20Randomness%20in%20selecting%20International%20Passengers%20for%20RT-PCR.pdf)
+[Eliminating Randomness in selecting International Passengers for RT-PCR: Download PDF](https://github.com/gelnomo/ART.-National-Inter-University-Big-Data-And-AI-Challenge-2023/blob/main/Eliminating%20Randomness%20in%20selecting%20International%20Passengers%20for%20RT-PCR.pdf)
+
+[STEM Fellowship Journal: Download PDF](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj-2023-007)
