@@ -6,7 +6,7 @@
 
 **Introduction:**
 
-The ongoing COVID-19 pandemic has significantly impacted international travel, requiring the implementation of stringent measures to limit cross-border transmission. Pre-travel testing using RT-PCR reports has become a crucial component of these measures. However, the effectiveness of these reports in identifying individuals requiring retesting before travel remains unclear. This study aims to evaluate the performance of RT-PCR reports in differentiating travellers needing retesting, focusing specifically on the context of Toronto Pearson International Airport.
+The ongoing COVID-19 pandemic has significantly impacted international travel, requiring the implementation of stringent measures to limit cross-border transmission. Pre-travel testing using RT-PCR reports has become a crucial component of these measures. However, the effectiveness of these reports in identifying individuals requiring retesting before travel remains unclear. This study aims to evaluate the performance of RT-PCR reports in differentiating travelers needing retesting.
 
 **Methodology:**
 
@@ -14,7 +14,7 @@ The ongoing COVID-19 pandemic has significantly impacted international travel, r
     * Comprehensive data collection from:
         * World Health Organization (WHO) reports and resources on COVID-19
         * Government of Canada COVID-19 data and publications
-        * RT-PCR test results and vaccination records of travellers
+        * RT-PCR test results and vaccination records of travelers
     * Data cleaning and pre-processing to ensure quality and consistency.
 
 2. **Risk Factor Analysis:**
@@ -26,13 +26,13 @@ The ongoing COVID-19 pandemic has significantly impacted international travel, r
     * Developing a statistical model to assess the relative importance of each risk factor.
 
 3. **Evaluation of RT-PCR Reports:**
-    * Analyzing the sensitivity and specificity of RT-PCR reports in identifying travellers with active COVID-19 infection.
+    * Analyzing the sensitivity and specificity of RT-PCR reports in identifying travelers with active COVID-19 infection.
     * Assessing the correlation between RT-PCR results and other risk factors.
     * Evaluating the effectiveness of RT-PCR reports in predicting subsequent COVID-19 diagnoses.
 
 **Expected Outcome:**
 
-* **Enhanced understanding of the effectiveness of RT-PCR reports for identifying travellers needing retesting.**
+* **Enhanced understanding of the effectiveness of RT-PCR reports for identifying travelers needing retesting.**
 
 **Potential Challenges:**
 
