@@ -49,3 +49,5 @@ This study has the potential to significantly enhance the effectiveness of trave
 [Enhancing international passengers’ selection for RT-PCR: Download PDF](https://github.com/gelnomo/ART.-National-Inter-University-Big-Data-And-AI-Challenge-2023/blob/main/Eliminating%20Randomness%20in%20selecting%20International%20Passengers%20for%20RT-PCR.pdf)
 
 [STEM Fellowship Journal: Download PDF](https://journal.stemfellowship.org/doi/pdf/10.17975/sfj-2023-007)
+
+<img src="https://ga4-readme-pixel.erwinmongui.workers.dev/pixel.gif?path=ART.-National-Inter-University-Big-Data-And-AI-Challenge-2023" width="1" height="1" alt=""/>
